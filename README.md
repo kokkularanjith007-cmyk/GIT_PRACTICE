@@ -1,2 +1,1 @@
-this is  y first git  practice
-feature branch work
+This my first git and git hub Practice repo....
